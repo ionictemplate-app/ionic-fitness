@@ -12,10 +12,7 @@
     </a>
 </p>
 
-
-
- <img alt="Ionic 5 / Angular 11 Fitness  Template/Full App | Starter App"
-                 src="https://i.ibb.co/dp663CH/previewdemo.gif"/>
+https://codecanyon.net/item/ionic-6-angular-10-fitness-theme-template-androidioswebapp/29415999
 
 <img alt="Ionic 5 / Angular 11 Fitness  Template/Full App | Starter App"
      src="https://i.ibb.co/CwjfssJ/01introduce.jpg"/>
